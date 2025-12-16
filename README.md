@@ -47,8 +47,7 @@ Olá! Eu sou Luiz Felipe, um desenvolvedor apaixonado por tecnologia e inovaçã
 
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-- **Linguagens de Programação:** Swift, C++, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript
+- **Linguagens de Programação:** Swift
 - **Ferramentas e Plataformas:** Figma, Photoshop
 - **Outras Habilidades:** Microsoft Office 
 
