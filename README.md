@@ -21,7 +21,7 @@ Olá! Eu sou Luiz Felipe, um desenvolvedor apaixonado por tecnologia e inovaçã
 
 ## Sobre Mim
 
-- 🔭 Atualmente estou cursando Ciência da Computação na UVA.
+- 🔭 Atualmente estou cursando Ciência da Computação na UVA e atuo como estagiário iOS na @globoi.
 - 🌱 Estou aprendendo swift.
 - 👯 Estou procurando colaborar em Projetos Open-Source.
 - 💬 Pergunte-me sobre Tecnologias em Geral.
