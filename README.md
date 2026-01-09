@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/luizpassaroni/" target="_blank">
       <img src="https://icongr.am/simple/instagram.svg?size=40&color=E4405F" alt="Instagram" height="40" width="40" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <a href="mailto:aguiarpassaroni@gmail.com" target="_blank">
       <img src="https://icongr.am/simple/gmail.svg?size=40&color=EA4335" alt="Email" height="40" width="40" />
     </a>
   </p>
