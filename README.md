@@ -23,22 +23,15 @@ Here are some ideas to get you started:
   ### Olá! Eu sou o Luiz Felipe 👋
   
   <p>
-    <em>Desenvolvedor iOS apaixonado por criar experiências incríveis no ecossistema Apple.</em>
+    <em>Desenvolvedor iOS focado em criar experiências incríveis no ecossistema Apple.</em>
   </p>
 
-<p>
-    <a href="https://www.linkedin.com/in/luizpassaroni/" target="_blank">
-      <img src="https://icongr.am/simple/linkedin.svg?size=40&color=0077B5" alt="LinkedIn" height="40" width="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://x.com/luizpassaroni/" target="_blank">
-      <img src="https://cdn.simpleicons.org/x/white" alt="X / Twitter" height="40" width="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/luizpassaroni/" target="_blank">
-      <img src="https://icongr.am/simple/instagram.svg?size=40&color=E4405F" alt="Instagram" height="40" width="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:aguiarpassaroni@gmail.com" target="_blank">
-      <img src="https://icongr.am/simple/gmail.svg?size=40&color=EA4335" alt="Email" height="40" width="40" />
-    </a>
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/luizpassaroni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
+    <a href="https://x.com/luizpassaroni/" target="_blank"><img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=flat&logo=x&logoColor=white" target="_blank"></a>&nbsp;
+    <a href="https://www.instagram.com/luizpassaroni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
+    <a href="mailto:aguiarpassaroni@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
 </div>
 
@@ -58,21 +51,21 @@ Here are some ideas to get you started:
 <div align="center">
   
   <div style="display: inline_block; margin-bottom: 20px;">
-    <img align="center" alt="Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+    <a href="https://www.swift.org/" target="_blank"><img align="center" alt="Swift" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /></a>
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Xcode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+    <a href="https://developer.apple.com/xcode/" target="_blank"><img align="center" alt="Xcode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></a>
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Apple" height="50" width="50" src="https://icongr.am/simple/apple.svg?size=50&color=ffffff" />
+    <a href="https://developer.apple.com/" target="_blank"><img align="center" alt="Apple" height="50" width="50" src="https://icongr.am/simple/apple.svg?size=50&color=ffffff" /></a>
   </div>
 
   <br>
 
   <div style="display: inline_block">
-    <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Adobe Photoshop" height="50" width="50" src="https://icongr.am/simple/adobephotoshop.svg?size=50&color=ffffff" />
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img align="center" alt="Adobe Photoshop" height="50" width="50" src="https://icongr.am/simple/adobephotoshop.svg?size=50&color=ffffff" /></a>
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   </div>
 
 </div>
@@ -82,22 +75,16 @@ Here are some ideas to get you started:
 ### 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/luizpassaroni">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizpassaroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Luiz's GitHub Stats"/>
-  </a>
-  
-  <a href="https://github.com/luizpassaroni">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizpassaroni&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Langs"/>
-  </a>
+  <a href="https://github.com/luizpassaroni"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizpassaroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Luiz's GitHub Stats"/></a>
+  &nbsp;
+  <a href="https://github.com/luizpassaroni"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizpassaroni&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Langs"/></a>
+
+  <br><br>
+
+  <a href="https://wakatime.com/@6cf46032-bea7-4ec5-ba5e-966b70222a24"><img src="https://wakatime.com/badge/user/6cf46032-bea7-4ec5-ba5e-966b70222a24.svg" alt="Total time coded since Jun 16 2024" /></a>
 </div>
 
-<br>
 
-<div align="center">
- <a href="https://wakatime.com/@6cf46032-bea7-4ec5-ba5e-966b70222a24">
-    <img src="https://wakatime.com/badge/user/6cf46032-bea7-4ec5-ba5e-966b70222a24.svg" alt="Total time coded since Jun 16 2024" />
-  </a>
-</div>
 
 
 <br>
