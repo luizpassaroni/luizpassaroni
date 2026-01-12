@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+ ### 👨‍💻 Sobre Mim 
 <div align="center">
-  <h3>👨‍💻 Sobre Mim</h3>
   
   🔭 Atualmente sou <strong>Estagiário iOS na Globo</strong> e estudo <strong>Ciência da Computação na UVA</strong>.<br>
   🌱 Focado em aprofundar conhecimentos em <strong>Swift, SwiftUI e UIKit</strong>.<br>
