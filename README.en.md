@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/Português-333333?style=for-the-badge&logo=brazil&logoColor=white" alt="Português"></a>
+  <a href="https://github.com/luizpassaroni"><img src="https://img.shields.io/badge/Português-333333?style=for-the-badge&logo=brazil&logoColor=white" alt="Português"></a>
   &nbsp;
   <a href="./README.en.md"><img src="https://img.shields.io/badge/English-007AFF?style=for-the-badge&logo=us&logoColor=white" alt="English"></a>
   
