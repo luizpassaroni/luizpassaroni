@@ -37,13 +37,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 👨‍💻 Sobre Mim
-
--- 🔭 Atualmente sou **Estagiário iOS na Globo** e estudo **Ciência da Computação na UVA**.
--- 🌱 Focado em aprofundar conhecimentos em **Swift, SwiftUI e UIKit**.
--- 👯 Procuro colaborar em projetos **Open-Source** voltados para mobile.
--- ⚡ **Curiosidade:** Nas horas vagas valorizo muito o tempo com a família.
-
+<div align="center">
+  <h3>👨‍💻 Sobre Mim</h3>
+  
+  🔭 Atualmente sou <strong>Estagiário iOS na Globo</strong> e estudo <strong>Ciência da Computação na UVA</strong>.<br>
+  🌱 Focado em aprofundar conhecimentos em <strong>Swift, SwiftUI e UIKit</strong>.<br>
+  👯 Procuro colaborar em projetos <strong>Open-Source</strong> voltados para mobile.<br>
+  ⚡ <strong>Curiosidade:</strong> Nas horas vagas valorizo muito o tempo com a família.
+</div>
 ---
 
 ### 🚀 Tecnologias e Ferramentas
