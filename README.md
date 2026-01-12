@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Sobre Mim
 
--🔭 Atualmente sou **Estagiário iOS na Globo** e estudo **Ciência da Computação na UVA**.
--🌱 Focado em aprofundar conhecimentos em **Swift, SwiftUI e UIKit**.
--👯 Procuro colaborar em projetos **Open-Source** voltados para mobile.
--⚡ **Curiosidade:** Nas horas vagas valorizo muito o tempo com a família.
+-- 🔭 Atualmente sou **Estagiário iOS na Globo** e estudo **Ciência da Computação na UVA**.
+-- 🌱 Focado em aprofundar conhecimentos em **Swift, SwiftUI e UIKit**.
+-- 👯 Procuro colaborar em projetos **Open-Source** voltados para mobile.
+-- ⚡ **Curiosidade:** Nas horas vagas valorizo muito o tempo com a família.
 
 ---
 
