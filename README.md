@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   👯 Procuro colaborar em projetos <strong>Open-Source</strong> voltados para mobile.<br>
   ⚡ <strong>Curiosidade:</strong> Nas horas vagas valorizo muito o tempo com a família.
 </div>
+
 ---
 
 ### 🚀 Tecnologias e Ferramentas
