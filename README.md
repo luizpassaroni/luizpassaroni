@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/Português-007AFF?style=for-the-badge&logo=brazil&logoColor=white" alt="Português"></a>
+  &nbsp;
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-333333?style=for-the-badge&logo=us&logoColor=white" alt="English"></a>
+  <br><br>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=200&section=header&text=Luiz%20Felipe&fontSize=80&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60&descAlign=50" alt="Header" />
 
