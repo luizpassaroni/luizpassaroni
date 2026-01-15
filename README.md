@@ -83,9 +83,14 @@ Here are some ideas to get you started:
 ### 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/luizpassaroni"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizpassaroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Luiz's GitHub Stats"/></a>
+  <a href="https://github.com/luizpassaroni">
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizpassaroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do Luiz"/>
+  </a>
   &nbsp;
-  <a href="https://github.com/luizpassaroni"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizpassaroni&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Langs"/></a>
+  <a href="https://github.com/luizpassaroni">
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizpassaroni&layout=compact&langs_count=7&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas"/>
+  </a>
+</div>
 
   <br><br>
 
