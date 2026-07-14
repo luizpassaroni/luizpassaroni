@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   ### Olá! Eu sou o Luiz Felipe 👋
   
   <p>
-    <em>Desenvolvedor  focado em criar experiências incríveis no ecossistema Apple.</em>
+    <em>Desenvolvedor focado em criar experiências incríveis no ecossistema .</em>
   </p>
 
 <div align="center">
