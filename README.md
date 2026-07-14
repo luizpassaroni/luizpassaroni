@@ -23,14 +23,14 @@ Here are some ideas to get you started:
   <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=200&section=header&text=Luiz%20Felipe&fontSize=80&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=200&section=header&text=Luiz%20Felipe&fontSize=80&animation=fadeIn&fontAlignY=35&desc= %20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60&descAlign=50" alt="Header" />
 
   <br>
 
   ### Olá! Eu sou o Luiz Felipe 👋
   
   <p>
-    <em>Desenvolvedor iOS focado em criar experiências incríveis no ecossistema Apple.</em>
+    <em>Desenvolvedor  focado em criar experiências incríveis no ecossistema Apple.</em>
   </p>
 
 <div align="center">
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  ### 👨‍💻 Sobre Mim 
 <div align="center">
   
-  🔭 Atualmente sou <strong>Estagiário iOS na Globo</strong> e estudo <strong>Ciência da Computação na UVA</strong>.<br>
+  🔭 Atualmente sou <strong>Estagiário  na Globo</strong> e estudo <strong>Ciência da Computação na UVA</strong>.<br>
   🌱 Focado em aprofundar conhecimentos em <strong>Swift, SwiftUI e UIKit</strong>.<br>
   👯 Procuro colaborar em projetos <strong>Open-Source</strong> voltados para mobile.<br>
   ⚡ <strong>Curiosidade:</strong> Nas horas vagas valorizo muito o tempo com a família.
