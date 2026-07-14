@@ -7,14 +7,14 @@
   
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=200&section=header&text=Luiz%20Felipe&fontSize=80&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60&descAlign=50" alt="Header" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=200&section=header&text=Luiz%20Felipe&fontSize=80&animation=fadeIn&fontAlignY=35&desc=%EF%A3%BF%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60&descAlign=50" alt="Header" />
 
   <br>
 
   ### Hello! I'm Luiz Felipe 👋
   
   <p>
-    <em>iOS Developer focused on creating amazing experiences within the Apple ecosystem.</em>
+    <em> Developer focused on creating amazing experiences within the Apple ecosystem.</em>
   </p>
 
   <p>
@@ -31,7 +31,7 @@
   
   ### 👨‍💻 About Me 
 
-  🔭 Currently an <strong>iOS Intern at Globo</strong> and a <strong>Computer Science student at UVA</strong>.<br>
+  🔭 Currently an <strong> Intern at Globo</strong> and a <strong>Computer Science student at UVA</strong>.<br>
   🌱 Focused on deepening knowledge in <strong>Swift, SwiftUI, and UIKit</strong>.<br>
   👯 Looking to collaborate on mobile-focused <strong>Open-Source</strong> projects.<br>
   ⚡ <strong>Fun fact:</strong> In my free time, I highly value spending time with my family.
