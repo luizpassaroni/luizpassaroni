@@ -14,7 +14,7 @@
   ### Hello! I'm Luiz Felipe 👋
   
   <p>
-    <em> Developer focused on creating amazing experiences within the Apple ecosystem.</em>
+    <em> Developer focused on creating amazing experiences within the  ecosystem.</em>
   </p>
 
   <p>
