@@ -21,7 +21,7 @@
     <a href="https://www.linkedin.com/in/luizpassaroni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
     <a href="https://x.com/luizpassaroni/" target="_blank"><img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=flat&logo=x&logoColor=white" target="_blank"></a>&nbsp;
     <a href="https://www.instagram.com/luizpassaroni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
-<a href="mailto:luiz@luizpassaroni.com" target="_blank"><img src="https://img.shields.io/badge/-Email-007AFF?style=flat&logo=mail.ru&logoColor=white" target="_blank"></a>
+<a href="mailto:luiz@luizpassaroni.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-007AFF?style=flat&logo=mail.ru&logoColor=white" target="_blank"></a>
   </p>
 </div>
 
