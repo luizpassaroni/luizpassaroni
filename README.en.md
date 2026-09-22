@@ -65,23 +65,39 @@
 
 ---
 
+### 📊 Statistics
+
 <div align="center">
 
-  ### 📊 Statistics
-
-  <a href="https://github.com/luizpassaroni"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizpassaroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Luiz's GitHub Stats"/></a>
-  &nbsp;
-  <a href="https://github.com/luizpassaroni"><img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizpassaroni&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Langs"/></a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizpassaroni&theme=dracula"
+    width="100%"
+    alt="Profile Details"
+  />
 
   <br><br>
 
-  <a href="https://wakatime.com/@6cf46032-bea7-4ec5-ba5e-966b70222a24"><img src="https://wakatime.com/badge/user/6cf46032-bea7-4ec5-ba5e-966b70222a24.svg" alt="Total time coded since Jun 16 2024" /></a>
-</div>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizpassaroni&theme=dracula"
+    height="165"
+    alt="Languages by Repository"
+  />
 
-<br>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizpassaroni&theme=dracula"
+    height="165"
+    alt="GitHub Stats"
+  />
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizpassaroni&theme=react-dark&hide_border=true&area=true&custom_title=Contributions" width="100%" alt="Activity Graph">
+  <br><br>
+
+  <a href="https://wakatime.com/@6cf46032-bea7-4ec5-ba5e-966b70222a24">
+    <img
+      src="https://wakatime.com/badge/user/6cf46032-bea7-4ec5-ba5e-966b70222a24.svg"
+      alt="WakaTime"
+    />
+  </a>
+
 </div>
 
 ---
