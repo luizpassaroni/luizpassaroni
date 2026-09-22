@@ -67,6 +67,7 @@
 
 ### 📊 Statistics
 
+
 <div align="center">
 
   <img
@@ -79,13 +80,12 @@
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizpassaroni&theme=dracula"
-    height="165"
+    width="49%"
     alt="Languages by Repository"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizpassaroni&theme=dracula"
-    height="165"
+    width="49%"
     alt="GitHub Stats"
   />
 
