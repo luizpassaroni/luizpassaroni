@@ -65,10 +65,10 @@
 
 ---
 
-### 📊 Statistics
-
 
 <div align="center">
+
+### 📊 Statistics
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizpassaroni&theme=dracula"
@@ -99,7 +99,6 @@
   </a>
 
 </div>
-
 ---
 
 <div align="center">
