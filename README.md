@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <br><br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=200&section=header&text=Luiz%20Felipe&fontSize=80&animation=fadeIn&fontAlignY=35&desc=%EF%A3%BF%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60&descAlign=50" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007AFF&height=200&section=header&text=Luiz%20Felipe&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20%EF%A3%BF%20%7C%20Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=60&descAlign=50" alt="Cabeçalho" />
   <br>
 
   ### Olá! Eu sou o Luiz Felipe 👋
